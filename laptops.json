@@ -1,86 +1,86 @@
 [
   {
     "id": 1,
-    "name": "Asus Zenbook",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 599.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Asus Zenbook 14",
+    "description": "Intel Core i7, 16GB RAM, 512GB SSD, 14-inch Full HD, lightweight ultrabook in excellent condition. Slight wear on the edges.",
+    "price": 49799,
+    "image": "https://example.com/images/asus-zenbook-14.jpg"
   },
   {
     "id": 2,
-    "name": "Macbook",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 799.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Apple MacBook Pro 13 (2020)",
+    "description": "Apple M1 chip, 8GB RAM, 256GB SSD, Retina Display, near-mint condition, comes with original charger and packaging.",
+    "price": 66399,
+    "image": "https://example.com/images/macbook-pro-13-2020.jpg"
   },
   {
     "id": 3,
-    "name": "Asus TUF",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 999.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Asus TUF Gaming A15",
+    "description": "AMD Ryzen 7, 16GB RAM, 1TB SSD, NVIDIA GeForce GTX 1660 Ti, 15.6-inch display. Great for gaming, minimal cosmetic wear.",
+    "price": 82999,
+    "image": "https://example.com/images/asus-tuf-gaming-a15.jpg"
   },
   {
     "id": 4,
-    "name": "Laptop Model 4",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 1199.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Dell XPS 13 (2021)",
+    "description": "Intel Core i7, 16GB RAM, 1TB SSD, 13.4-inch InfinityEdge Touch Display, pristine condition, includes original box and accessories.",
+    "price": 99599,
+    "image": "https://example.com/images/dell-xps-13.jpg"
   },
   {
     "id": 5,
-    "name": "Laptop Model 5",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 1399.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "HP Spectre x360",
+    "description": "Intel Core i7, 16GB RAM, 512GB SSD, 2-in-1 convertible, 13.3-inch 4K OLED touchscreen. Excellent condition, minimal use.",
+    "price": 116799,
+    "image": "https://example.com/images/hp-spectre-x360.jpg"
   },
   {
     "id": 6,
-    "name": "Laptop Model 6",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 1599.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "description": "Intel Core i7, 16GB RAM, 1TB SSD, 14-inch display, military-grade durability, like-new condition.",
+    "price": 132599,
+    "image": "https://example.com/images/lenovo-thinkpad-x1-carbon.jpg"
   },
   {
     "id": 7,
-    "name": "Laptop Model 7",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 1799.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "MSI GS66 Stealth",
+    "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080, 15.6-inch 300Hz display, high-performance gaming laptop, slight scuffs.",
+    "price": 149399,
+    "image": "https://example.com/images/msi-gs66-stealth.jpg"
   },
   {
     "id": 8,
-    "name": "Laptop Model 8",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 1999.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Apple MacBook Air (2022)",
+    "description": "Apple M2 chip, 8GB RAM, 512GB SSD, 13.6-inch Liquid Retina Display, perfect condition, comes with charger.",
+    "price": 165999,
+    "image": "https://example.com/images/macbook-air-2022.jpg"
   },
   {
     "id": 9,
-    "name": "Laptop Model 9",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 2199.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Razer Blade 15 Advanced",
+    "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3070, 15.6-inch QHD 240Hz display, premium gaming laptop, minor cosmetic wear.",
+    "price": 182599,
+    "image": "https://example.com/images/razer-blade-15.jpg"
   },
   {
     "id": 10,
-    "name": "Laptop Model 10",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 2399.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Microsoft Surface Laptop 4",
+    "description": "Intel Core i7, 16GB RAM, 512GB SSD, 15-inch PixelSense Display, ultra-slim design, excellent condition, barely used.",
+    "price": 199199,
+    "image": "https://example.com/images/surface-laptop-4.jpg"
   },
   {
     "id": 11,
-    "name": "Laptop Model 11",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 2599.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Gigabyte Aorus 15G",
+    "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080, 15.6-inch 240Hz display, powerful gaming machine, lightly used.",
+    "price": 215799,
+    "image": "https://example.com/images/gigabyte-aorus-15g.jpg"
   },
   {
     "id": 12,
-    "name": "Laptop Model 12",
-    "description": "Brief description of the laptop specifications and condition.",
-    "price": 2799.99,
-    "image": "https://content.paulreiffer.com/wp-content/uploads/2021/10/Review-Workstation-October-New-2021-Apple-M1-MacBook-Pro-16-14-inch-Max-Launch-Release-Paul-Reiffer-Testing-Photographer-Phase-One-Capture-One-Benchmark@2x.jpg"
+    "name": "Alienware m17 R4",
+    "description": "Intel Core i9, 64GB RAM, 2TB SSD, NVIDIA RTX 3090, 17.3-inch FHD 360Hz display, ultimate gaming laptop, barely used, near-mint condition.",
+    "price": 232399,
+    "image": "https://example.com/images/alienware-m17-r4.jpg"
   }
 ]
