@@ -41,7 +41,7 @@
     "price": 132599,
     "image": "https://alaqsa.com.pk/wp-content/uploads/2022/08/X1-Carbon.jpg"
   },
- /* {
+{
     "id": 7,
     "name": "MSI GS66 Stealth",
     "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080, 15.6-inch 300Hz display, high-performance gaming laptop, slight scuffs.",
@@ -53,230 +53,34 @@
     "name": "Apple MacBook Air (2022)",
     "description": "Apple M2 chip, 8GB RAM, 512GB SSD, 13.6-inch Liquid Retina Display, perfect condition, comes with charger.",
     "price": 165999,
-    "image": "https://example.com/images/macbook-air-2022.jpg"
+    "image": "https://photos5.appleinsider.com/gallery/49298-96697-MacBook-Air-Closed-on-Desk-xl.jpg"
   },
   {
     "id": 9,
     "name": "Razer Blade 15 Advanced",
     "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3070, 15.6-inch QHD 240Hz display, premium gaming laptop, minor cosmetic wear.",
     "price": 182599,
-    "image": "https://example.com/images/razer-blade-15.jpg"
+    "image": "https://sm.pcmag.com/pcmag_uk/review/r/razer-blad/razer-blade-15-advanced-edition-2020_pnk7.jpg"
   },
   {
     "id": 10,
     "name": "Microsoft Surface Laptop 4",
     "description": "Intel Core i7, 16GB RAM, 512GB SSD, 15-inch PixelSense Display, ultra-slim design, excellent condition, barely used.",
     "price": 199199,
-    "image": "https://example.com/images/surface-laptop-4.jpg"
+    "image": "https://media.cnn.com/api/v1/images/stellar/prod/210416103748-surface-laptop-4-review-back.jpg?q=w_4032,h_2268,x_0,y_0,c_fill"
   },
   {
     "id": 11,
     "name": "Gigabyte Aorus 15G",
     "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080, 15.6-inch 240Hz display, powerful gaming machine, lightly used.",
     "price": 215799,
-    "image": "https://example.com/images/gigabyte-aorus-15g.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2q6xLDiElWcZiKcIi4VUb-Y0N74DJyPYew&s"
   },
   {
     "id": 12,
     "name": "Alienware m17 R4",
     "description": "Intel Core i9, 64GB RAM, 2TB SSD, NVIDIA RTX 3090, 17.3-inch FHD 360Hz display, ultimate gaming laptop, barely used, near-mint condition.",
     "price": 232399,
-    "image": "https://example.com/images/alienware-m17-r4.jpg"
-  },
-  {
-    "id": 13,
-    "name": "Asus VivoBook S14",
-    "description": "Intel Core i5, 8GB RAM, 512GB SSD, 14-inch Full HD display, sleek design, in great condition.",
-    "price": 45999,
-    "image": "https://example.com/images/asus-vivobook-s14.jpg"
-  },
-  {
-    "id": 14,
-    "name": "Dell Inspiron 15",
-    "description": "Intel Core i5, 8GB RAM, 1TB HDD, 15.6-inch Full HD display, everyday laptop, good condition.",
-    "price": 38999,
-    "image": "https://example.com/images/dell-inspiron-15.jpg"
-  },
-  {
-    "id": 15,
-    "name": "HP Pavilion 14",
-    "description": "Intel Core i5, 8GB RAM, 512GB SSD, 14-inch Full HD display, great for students and professionals, excellent condition.",
-    "price": 49999,
-    "image": "https://example.com/images/hp-pavilion-14.jpg"
-  },
-  {
-    "id": 16,
-    "name": "Acer Aspire 7",
-    "description": "AMD Ryzen 5, 8GB RAM, 512GB SSD, NVIDIA GTX 1650, 15.6-inch Full HD display, good for light gaming, very good condition.",
-    "price": 57999,
-    "image": "https://example.com/images/acer-aspire-7.jpg"
-  },
-  {
-    "id": 17,
-    "name": "Lenovo Legion 5",
-    "description": "AMD Ryzen 7, 16GB RAM, 512GB SSD, NVIDIA RTX 2060, 15.6-inch Full HD 144Hz display, gaming laptop, lightly used.",
-    "price": 78999,
-    "image": "https://example.com/images/lenovo-legion-5.jpg"
-  },
-  {
-    "id": 18,
-    "name": "Apple MacBook Pro 16 (2019)",
-    "description": "Intel Core i9, 16GB RAM, 1TB SSD, 16-inch Retina Display, excellent condition, includes charger.",
-    "price": 139999,
-    "image": "https://example.com/images/macbook-pro-16-2019.jpg"
-  },
-  {
-    "id": 19,
-    "name": "Dell Latitude 7410",
-    "description": "Intel Core i7, 16GB RAM, 512GB SSD, 14-inch Full HD, business laptop, barely used.",
-    "price": 99999,
-    "image": "https://example.com/images/dell-latitude-7410.jpg"
-  },
-  {
-    "id": 20,
-    "name": "HP Omen 15",
-    "description": "Intel Core i7, 16GB RAM, 1TB SSD, NVIDIA RTX 2070, 15.6-inch 144Hz display, gaming laptop, great condition.",
-    "price": 115999,
-    "image": "https://example.com/images/hp-omen-15.jpg"
-  },
-  {
-    "id": 21,
-    "name": "Asus ROG Strix G17",
-    "description": "AMD Ryzen 9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080, 17.3-inch 144Hz display, high-end gaming laptop, excellent condition.",
-    "price": 189999,
-    "image": "https://example.com/images/asus-rog-strix-g17.jpg"
-  },
-  {
-    "id": 22,
-    "name": "Microsoft Surface Book 3",
-    "description": "Intel Core i7, 16GB RAM, 512GB SSD, 13.5-inch detachable PixelSense Display, pristine condition.",
-    "price": 169999,
-    "image": "https://example.com/images/surface-book-3.jpg"
-  },
-  {
-    "id": 23,
-    "name": "Razer Blade Stealth 13",
-    "description": "Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA GTX 1650, 13.3-inch Full HD display, premium build, great condition.",
-    "price": 149999,
-    "image": "https://example.com/images/razer-blade-stealth-13.jpg"
-  },
-  {
-    "id": 24,
-    "name": "Lenovo Yoga C940",
-    "description": "Intel Core i7, 16GB RAM, 1TB SSD, 14-inch 4K UHD touchscreen, convertible, great condition, comes with stylus.",
-    "price": 139999,
-    "image": "https://example.com/images/lenovo-yoga-c940.jpg"
-  },
-  {
-    "id": 25,
-    "name": "Dell G5 15",
-    "description": "Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA GTX 1660 Ti, 15.6-inch Full HD display, gaming laptop, good condition.",
-    "price": 82999,
-    "image": "https://example.com/images/dell-g5-15.jpg"
-  },
-  {
-    "id": 26,
-    "name": "Acer Nitro 5",
-    "description": "Intel Core i5, 8GB RAM, 512GB SSD, NVIDIA GTX 1650, 15.6-inch Full HD display, great for gaming, very good condition.",
-    "price": 74999,
-    "image": "https://example.com/images/acer-nitro-5.jpg"
-  },
-  {
-    "id": 27,
-    "name": "HP Envy 13",
-    "description": "Intel Core i7, 16GB RAM, 512GB SSD, 13.3-inch Full HD touchscreen, sleek and lightweight, great condition.",
-    "price": 89999,
-    "image": "https://example.com/images/hp-envy-13.jpg"
-  },
-  {
-    "id": 28,
-    "name": "Lenovo ThinkPad P15",
-    "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA Quadro RTX 5000, 15.6-inch display, powerful workstation, lightly used.",
-    "price": 249999,
-    "image": "https://example.com/images/lenovo-thinkpad-p15.jpg"
-  },
-  {
-    "id": 29,
-    "name": "Apple MacBook Pro 14 (2021)",
-    "description": "Apple M1 Pro chip, 16GB RAM, 512GB SSD, 14.2-inch Liquid Retina XDR display, like-new condition, with box.",
-    "price": 209999,
-    "image": "https://example.com/images/macbook-pro-14-2021.jpg"
-  },
-  {
-    "id": 30,
-    "name": "MSI GF65 Thin",
-    "description": "Intel Core i7, 16GB RAM, 512GB SSD, NVIDIA GTX 1660 Ti, 15.6-inch 144Hz display, gaming laptop, excellent condition.",
-    "price": 99999,
-    "image": "https://example.com/images/msi-gf65-thin.jpg"
-  },
-  {
-    "id": 31,
-    "name": "Dell Precision 5550",
-    "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA Quadro T2000, 15.6-inch display, professional workstation, lightly used.",
-    "price": 299999,
-    "image": "https://example.com/images/dell-precision-5550.jpg"
-  },
-  {
-    "id": 32,
-    "name": "Apple MacBook Air (2020)",
-    "description": "Apple M1 chip, 8GB RAM, 256GB SSD, 13.3-inch Retina Display, excellent condition, includes charger.",
-    "price": 91999,
-    "image": "https://example.com/images/macbook-air-2020.jpg"
-  },
-  {
-    "id": 33,
-    "name": "HP Elite Dragonfly",
-    "description": "Intel Core i7, 16GB RAM, 512GB SSD, 13.3-inch Full HD touchscreen, ultra-lightweight business laptop, pristine condition.",
-    "price": 129999,
-    "image": "https://example.com/images/hp-elite-dragonfly.jpg"
-  },
-  {
-    "id": 34,
-    "name": "Asus ProArt StudioBook Pro 17",
-    "description": "Intel Core i9, 64GB RAM, 1TB SSD, NVIDIA Quadro RTX 5000, 17-inch display, professional laptop for creators, like-new condition.",
-    "price": 349999,
-    "image": "https://example.com/images/asus-proart-studiobook-pro-17.jpg"
-  },
-  {
-    "id": 35,
-    "name": "Acer Swift 3",
-    "description": "Intel Core i5, 8GB RAM, 256GB SSD, 14-inch Full HD display, lightweight, good condition.",
-    "price": 35999,
-    "image": "https://example.com/images/acer-swift-3.jpg"
-  },
-  {
-    "id": 36,
-    "name": "Lenovo IdeaPad Flex 5",
-    "description": "AMD Ryzen 5, 8GB RAM, 512GB SSD, 14-inch touchscreen, 2-in-1 convertible, excellent condition.",
-    "price": 55999,
-    "image": "https://example.com/images/lenovo-ideapad-flex-5.jpg"
-  },
-  {
-    "id": 37,
-    "name": "Dell XPS 17 (2021)",
-    "description": "Intel Core i7, 32GB RAM, 1TB SSD, 17-inch UHD+ display, sleek design, excellent condition.",
-    "price": 199999,
-    "image": "https://example.com/images/dell-xps-17.jpg"
-  },
-  {
-    "id": 38,
-    "name": "MSI Creator Z16",
-    "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3060, 16-inch QHD+ display, creator's laptop, like-new condition.",
-    "price": 199999,
-    "image": "https://example.com/images/msi-creator-z16.jpg"
-  },
-  {
-    "id": 39,
-    "name": "Apple MacBook Pro 16 (2021)",
-    "description": "Apple M1 Max chip, 64GB RAM, 2TB SSD, 16-inch Liquid Retina XDR display, pristine condition.",
-    "price": 359999,
-    "image": "https://example.com/images/macbook-pro-16-2021.jpg"
-  },
-  {
-    "id": 40,
-    "name": "HP ZBook Fury 17",
-    "description": "Intel Core i9, 64GB RAM, 2TB SSD, NVIDIA Quadro RTX 5000, 17-inch display, high-end workstation, excellent condition.",
-    "price": 379999,
-    "image": "https://example.com/images/hp-zbook-fury-17.jpg"
-  }*/
+    "image": "https://specials-images.forbesimg.com/imageserve/60aeda8a4d262da55001cab9/Alienware-m17-R4/960x0.jpg?fit=scale"
+  }
 ]
