@@ -2,85 +2,121 @@
   {
     "id": 1,
     "name": "Asus Zenbook 14",
+    "brand": "Asus",
     "description": "Intel Core i7, 16GB RAM, 512GB SSD, 14-inch Full HD, lightweight ultrabook in excellent condition. Slight wear on the edges.",
     "price": 49799,
+    "stock": 10,
+    "sold": 3,
     "image": "https://tavesper.tech/wp-content/uploads/2023/03/TAV4003-1024x576.jpg"
   },
   {
     "id": 2,
     "name": "Apple MacBook Pro 13 (2020)",
+    "brand": "Apple",
     "description": "Apple M1 chip, 8GB RAM, 256GB SSD, Retina Display, near-mint condition, comes with original charger and packaging.",
     "price": 66399,
+    "stock": 7,
+    "sold": 5,
     "image": "https://www.techzine.nl/wp-content/uploads/2020/10/Apple-MacBook-Pro-13-2020-07-2048x1202.jpg"
   },
   {
     "id": 3,
     "name": "Asus TUF Gaming A15",
+    "brand": "Asus",
     "description": "AMD Ryzen 7, 16GB RAM, 1TB SSD, NVIDIA GeForce GTX 1660 Ti, 15.6-inch display. Great for gaming, minimal cosmetic wear.",
     "price": 82999,
+    "stock": 8,
+    "sold": 2,
     "image": "https://www.notebookcheck.nl/fileadmin/Notebooks/Asus/TUF_A15_FA507/IMG_8975.JPG"
   },
   {
     "id": 4,
     "name": "Dell XPS 13 (2021)",
+    "brand": "Dell",
     "description": "Intel Core i7, 16GB RAM, 1TB SSD, 13.4-inch InfinityEdge Touch Display, pristine condition, includes original box and accessories.",
     "price": 99599,
+    "stock": 5,
+    "sold": 4,
     "image": "https://i.ytimg.com/vi/Cqa9hlRb1cc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLARtxR89pou5NGwu1CgOHoA_A5ZpQ"
   },
   {
     "id": 5,
     "name": "HP Spectre x360",
+    "brand": "HP",
     "description": "Intel Core i7, 16GB RAM, 512GB SSD, 2-in-1 convertible, 13.3-inch 4K OLED touchscreen. Excellent condition, minimal use.",
     "price": 116799,
+    "stock": 4,
+    "sold": 2,
     "image": "https://images.lifestyleasia.com/wp-content/uploads/sites/5/2021/06/10154715/Rainer_13_WLAN_PoseidonBlue_nonODD_FPR_CoreSet_RearLeft-2-1600x900.jpg"
   },
   {
     "id": 6,
     "name": "Lenovo ThinkPad X1 Carbon",
+    "brand": "Lenovo",
     "description": "Intel Core i7, 16GB RAM, 1TB SSD, 14-inch display, military-grade durability, like-new condition.",
     "price": 132599,
+    "stock": 6,
+    "sold": 1,
     "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2022/01/Lenovo-ThinkPad-X1-Carbon-Gen-10-1.jpg"
   },
-{
+  {
     "id": 7,
     "name": "MSI GS66 Stealth",
+    "brand": "MSI",
     "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080, 15.6-inch 300Hz display, high-performance gaming laptop, slight scuffs.",
     "price": 149399,
+    "stock": 3,
+    "sold": 1,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjNOugP2UMuNb-QOh0O0a_mg99KGjzjA79Gw&s"
   },
   {
     "id": 8,
     "name": "Apple MacBook Air (2022)",
+    "brand": "Apple",
     "description": "Apple M2 chip, 8GB RAM, 512GB SSD, 13.6-inch Liquid Retina Display, perfect condition, comes with charger.",
     "price": 165999,
+    "stock": 5,
+    "sold": 3,
     "image": "https://photos5.appleinsider.com/gallery/49298-96697-MacBook-Air-Closed-on-Desk-xl.jpg"
   },
   {
     "id": 9,
     "name": "Razer Blade 15 Advanced",
+    "brand": "Razer",
     "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3070, 15.6-inch QHD 240Hz display, premium gaming laptop, minor cosmetic wear.",
     "price": 182599,
+    "stock": 4,
+    "sold": 2,
     "image": "https://sm.pcmag.com/pcmag_uk/review/r/razer-blad/razer-blade-15-advanced-edition-2020_pnk7.jpg"
   },
   {
     "id": 10,
     "name": "Microsoft Surface Laptop 4",
+    "brand": "Microsoft",
     "description": "Intel Core i7, 16GB RAM, 512GB SSD, 15-inch PixelSense Display, ultra-slim design, excellent condition, barely used.",
     "price": 199199,
+    "stock": 2,
+    "sold": 1,
     "image": "https://media.cnn.com/api/v1/images/stellar/prod/210416103748-surface-laptop-4-review-back.jpg?q=w_4032,h_2268,x_0,y_0,c_fill"
   },
   {
     "id": 11,
     "name": "Gigabyte Aorus 15G",
+    "brand": "Gigabyte",
     "description": "Intel Core i9, 32GB RAM, 1TB SSD, NVIDIA RTX 3080, 15.6-inch 240Hz display, powerful gaming machine, lightly used.",
     "price": 215799,
+    "stock": 2,
+    "sold": 0,
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu2q6xLDiElWcZiKcIi4VUb-Y0N74DJyPYew&s"
   },
   {
     "id": 12,
     "name": "Alienware m17 R4",
+    "brand": "Alienware",
     "description": "Intel Core i9, 64GB RAM, 2TB SSD, NVIDIA RTX 3090, 17.3-inch FHD 360Hz display, ultimate gaming laptop, barely used, near-mint condition.",
     "price": 232399,
+    "stock": 1,
+    "sold": 0,
     "image": "https://specials-images.forbesimg.com/imageserve/60aeda8a4d262da55001cab9/Alienware-m17-R4/960x0.jpg?fit=scale"
   }
 ]
